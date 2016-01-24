@@ -1,7 +1,7 @@
 /**
  * File: main.cpp
  * Project: ucd-csci2312-pa0
- * Author: Ivo Georgiev
+ * Author: Bel Subba
  * Date: 2016-01-18
  */
 #include <iostream>
